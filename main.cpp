@@ -22,7 +22,7 @@ void print(int x1, int y1, int x2, int y2, float r1, float r2, float perim1, flo
 	return;
 }
 void circle(int, int, float);
-main()
+int main()
 {
 	int x1, y1, x2, y2;
 	float r1, r2, d, flag = 0, S1, S2, perim1, perim2;
